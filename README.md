@@ -7,5 +7,8 @@
 - 2017/08/03 初めてのプログラミングを体験した大人の方が50分で作った作品。変数とif分を使ったアニメーションです。
   - [ブラウザで見る](https://studiokura.github.io/p5js-students/tkkr20170803/)
   - [ソースコード](https://github.com/studiokura/p5js-students/blob/master/tkkr20170803/index.html)
+- 2017/08/10 何度か来たことあるEitaくんが初めてゲームを作りました。丸が画面の真ん中にあるとき、マウスをどこでもクリックして下さい。
+  - [ブラウザで見る](https://studiokura.github.io/p5js-students/eita20170810/)
+  - [ソースコード](https://github.com/studiokura/p5js-students/blob/master/eita20170810/sketch.js)
 
 [体験レッスンの予約](https://www.studiokura.com/otoiawase.html)を7つのStudioKura教室と、[オンライン校](https://www.studiokura.com/otoiawase.html)で承っております。
